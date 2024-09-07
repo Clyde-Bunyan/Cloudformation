@@ -1,5 +1,5 @@
 Resources:
-# Create an EC2 instance
+#Create an EC2 instance
   WebInstance:
     Type: AWS::EC2::Instance
     Properties:
